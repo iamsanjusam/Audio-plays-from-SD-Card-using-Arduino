@@ -33,4 +33,4 @@ music.volume(0);           1(up) or 0(down) to control volume
 music.setVolume(0);        0 to 7. Set volume level
 music.loop(1);             0 or 1. Can be changed during playback for full control of looping. 
 
-Goodluck!
+Goodluck.
