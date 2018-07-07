@@ -1,4 +1,4 @@
-# Audio-plays-from-SD-Card-using-Arduino
+# Simple audio player using Arduino and SD card module
 
 Hi,
 It is a simple project to play an audio file in the SD card using Arduino UNO.
