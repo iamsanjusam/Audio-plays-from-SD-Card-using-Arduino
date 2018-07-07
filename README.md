@@ -19,4 +19,5 @@ For this experiment following components are needed:
 The circuit diagaram is provided in the repository. The audio file will play during Arduino startup.
 
 The other functions of library are provided below, for more check out at TMRpcm library wiki: https://github.com/TMRh20/TMRpcm/wiki
-Goodluck.
+
+Goodluck!
